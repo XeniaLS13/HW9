@@ -8,7 +8,7 @@ N = 5 -> "5, 4, 3, 2, 1"
 
 N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 
-[КОД]()
+[КОД](https://github.com/XeniaLS13/HW9/blob/main/Task1/Program.cs)
 
 ## Задание 2: 
 
@@ -18,7 +18,7 @@ M = 1; N = 15 -> 120
 
 M = 4; N = 8. -> 30
 
-[КОД]()
+[КОД](https://github.com/XeniaLS13/HW9/blob/main/Task2/Program.cs)
 
 ## Задание 3: 
 
@@ -28,4 +28,4 @@ m = 2, n = 3 -> A(m,n) = 9
 
 m = 3, n = 2 -> A(m,n) = 29
 
-[КОД]()
+[КОД](https://github.com/XeniaLS13/HW9/blob/main/Task3/Program.cs)
